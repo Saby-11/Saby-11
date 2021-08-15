@@ -8,7 +8,7 @@ Welcome to my [Github][github link]! I'm a tech-enthusiast and a self-taught MER
 
 ### Some info about me:
 
-- 📚 I'm a Final year student studying Electronics and Communication at the IIIT Una.
+- 📚 I'm a Final year student studying Electronics and Communication Engineering at the IIIT Una.
 - 🌎 I can speak English and Hindi.
 - 🚀 I'm currently focused on fullstack web development with Node.js, Express.js, React and MongoDB
 - 🏢 I'm open to fall 2021 internship opportunities
