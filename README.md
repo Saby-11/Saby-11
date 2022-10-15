@@ -8,10 +8,9 @@ Welcome to my [Github][github link]! I'm a tech-enthusiast and a self-taught MER
 
 ### Some info about me:
 
-- 📚 I'm a Final year student studying Electronics and Communication Engineering at the IIIT Una.
+- 📚 I'm a Software Engineer at Samsung India who has completed his B.Tech in Electronics and Communication Engineering at the IIIT Una.
 - 🌎 I can speak English and Hindi.
-- 🚀 I'm currently focused on fullstack web development with Node.js, Express.js, React and MongoDB
-- 🏢 I'm open to fall 2021 internship opportunities
+- 🚀 I'm currently working on backend development and android.
 - 👨🏻‍💻 You can find most of my projects here on [GitHub][github link]
 - 📫 You can reach me at: [18248@iiitu.ac.in](mailto:18248@iiitu.ac.in)
 - 📝 Here is my [resume][resume link]
